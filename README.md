@@ -1,6 +1,6 @@
 # Mandelbrot image and gif generator #
 
-![](Eksempel.gif)
+![grab-landing-page](Eksempel.gif)
 
 ## Image:
 Creates an image of a given size in a given area of the mandelbrot set. With a given number of iterations over z.
